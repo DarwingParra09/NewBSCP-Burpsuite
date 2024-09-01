@@ -8,60 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c374876ca0e7238b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etapa 3/Server-side template injection 👾.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ec998e4984d2286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Etapa 3/OS command injection 🖱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b0a4c94d662d160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Examen BurpSuite Certified Practitioner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8ba4d7fe91068d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.Laboratorios del Examen BSCP💻.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "affcd68b1ddabd29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Etapa 1 ✨/SQL Injection.md",
+                "file": "004. Herramientas y Trucos 🎲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a5b50c8323311a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004. Herramientas y Trucos 🎲.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etapa 3/Server-side template injection 👾.md",
+                "file": "004. Herramientas y Trucos 🎲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Etapa 3/Server-side template injection 👾.md",
+                "file": "004. Herramientas y Trucos 🎲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Etapa 3/Server-side template injection 👾.md"
+                "file": "004. Herramientas y Trucos 🎲.md"
               }
             }
           }
@@ -194,9 +158,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2ace1674f183ae24",
+  "active": "affcd68b1ddabd29",
   "lastOpenFiles": [
+    "003. Laboratorios específicos 👾.md",
+    "004. Herramientas y Trucos 🎲.md",
+    "Examen BurpSuite Certified Practitioner.md",
     "Etapa 1 ✨/SQL Injection.md",
+    "002.Laboratorios del Examen BSCP💻.md",
+    "Etapa 1 ✨/Authentication 🙍‍♂️🙍‍♀️.md",
+    "Etapa 3/OS command injection 🖱.md",
+    "Etapa 1 ✨/Cross-site Scripting XSS.md",
+    "Etapa 1 ✨/Access Control 🎮.md",
+    "Etapa 1 ✨/Web cache poisoning 💀.md",
+    "Etapa 1 ✨/OAuth authentication 👥.md",
+    "Etapa 3/File Upload Vulnerabilities 📩.md",
+    "001.Habilidades Esenciales 🛠.md",
+    "Etapa 3/Server-side template injection 👾.md",
+    "Etapa 1 ✨/DOM-Vulnerability ⛓.md",
+    "Etapa 1 ✨/Clickjacking 🖱.md",
     "Etapa 1 ✨/ANEXOS/Pasted image 20240823014651.png",
     "Etapa 1 ✨/ANEXOS/Pasted image 20240823014637.png",
     "Etapa 1 ✨/ANEXOS/Pasted image 20240823013508.png",
@@ -207,27 +186,13 @@
     "Etapa 1 ✨/ANEXOS/Pasted image 20240823012142.png",
     "Etapa 1 ✨/ANEXOS/Pasted image 20240823012004.png",
     "Etapa 1 ✨/ANEXOS/Pasted image 20240823011953.png",
-    "Etapa 1 ✨/Cross-site Scripting XSS.md",
-    "Etapa 1 ✨/DOM-Vulnerability ⛓.md",
-    "Etapa 1 ✨/Web cache poisoning 💀.md",
     "Etapa 3/Insecure Deserialization 💀.md",
     "Etapa 3/Server-side request forgery (SSRF) ⛓.md",
-    "Etapa 3/File Upload Vulnerabilities 📩.md",
-    "Etapa 3/OS command injection 🖱.md",
-    "Etapa 3/Server-side template injection 👾.md",
-    "002.Laboratorios del Examen BSCP💻.md",
-    "Etapa 1 ✨/Access Control 🎮.md",
     "Etapa 1 ✨/HTTP Host header attacks 🖥.md",
-    "Etapa 1 ✨/Authentication 🙍‍♂️🙍‍♀️.md",
     "Etapa 1 ✨/Cross-origin resource sharing (CORS)👾.md",
-    "Etapa 1 ✨/Clickjacking 🖱.md",
-    "Examen BurpSuite Certified Practitioner.md",
-    "003. Laboratorios específicos 👾.md",
     "Etapa 3/Path traversal 💻.md",
-    "Etapa 1 ✨/OAuth authentication 👥.md",
     "Etapa 3/ANEXOS",
     "Etapa 3",
-    "001.Habilidades Esenciales 🛠.md",
     "Etapa 1 ✨/ANEXOS/ANEXOS",
     "exploit.php",
     "Usernames.txt",

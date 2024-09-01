@@ -8,6 +8,8 @@ Habilidades Necesarias a la hora de hacer el examen
 - [[001.Habilidades Esenciales 🛠]]
 - [[002.Laboratorios del Examen BSCP💻]]
 - [[003. Laboratorios específicos 👾]]
+- [[004. Herramientas y Trucos 🎲]]
+  
 - ***Etapa 1 y 2***
   - [[DOM-Vulnerability ⛓]]
   - [[Clickjacking 🖱]]
